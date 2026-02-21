@@ -1,3 +1,2 @@
 #!/bin/bash
-var=$'\*\\\'"Best School"\'\\*$\?\*\*\*\*\*:)'
-printf "Best School\n" > "$var"
+printf "Best School\n" > $'\*\\\'"Best School"\'\\*$\?\*\*\*\*\*:)'
